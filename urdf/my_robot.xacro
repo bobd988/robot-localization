@@ -144,7 +144,7 @@
   </gazebo>
 
   <gazebo reference="right_wheel">
-    <material>Gazebo/Blue</material>
+    <material>Gazebo/Red</material>
   </gazebo>
 
   <joint type="continuous" name="left_wheel_hinge">
